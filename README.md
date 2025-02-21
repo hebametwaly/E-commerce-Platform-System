@@ -48,7 +48,7 @@ Hosting & Deployment: AWS / Firebase / Docker
 🚀 Getting Started
 Clone the repository:
 
-git clone https://github.com/yourusername/ecommerce-platform.git
+git clone [https://github.com/yourusername/ecommerce-platform.git](https://github.com/hebametwaly/E-commerce-Platform-System.git)
 cd ecommerce-platform
 
 Install dependencies:
